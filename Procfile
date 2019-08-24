@@ -1,1 +1,1 @@
-web gunicorn app:line
+web: gunicorn line.py
